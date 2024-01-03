@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yonglin Tian's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* July 2022: Research Assistant
-  * Institute of Automation, Chinese Academy of Sciences
+* July 2022: Research Assistant, Institute of Automation, Chinese Academy of Sciences
 
 <!-- Skills
 ======
