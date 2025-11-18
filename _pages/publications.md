@@ -24,6 +24,7 @@ Journal Papers (International)
 * Yutong Wang, **Yonglin Tian***, Jiangong Wang, Yansong Cao, Shixing Li, Bin Tian. Integrated inspection of QoM, QoP, and QoS for AOI industries in metaverses[J]. IEEE/CAA Journal of Automatica Sinica, 2022, 9(12): 2071-2078.
 
 Journal Papers (Chinese)
+======
 * 田永林, 王雨桐, 王兴霞, 杨静, 沈甜雨, 王建功, 范丽丽, 郭超, 王寿文, 赵勇, 武万森， 王飞跃. 从 RAG 到 SAGE: 现状与展望[J]. 自动化学报, 2025, 51: 1-25.
 * **田永林**, 王兴霞, 王雨桐, 王建功, 郭超, 范丽丽, 沈甜雨, 武万森, 张红梅, 朱正秋, 王飞跃. RAG-PHI: 检索增强生成驱动的平行人与平行智能[J]. 智能科学与技术学报, 6(1)， 2024.
 
