@@ -23,6 +23,10 @@ Associate Editor
 * 2022-: Transactions on Intelligent Vehicles
 * 2024-: Chinese Journal of Intelligent Science and Technology
 
+Youth Associate Editor
+======
+* 2024-2025: Research
+
 <!-- Awards
 ======
 * The 2023 Best Associate Editors -->
