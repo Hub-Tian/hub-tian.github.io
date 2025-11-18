@@ -8,7 +8,7 @@ author_profile: true
 Journal Papers (International)
 ======
 
-* **Yonglin Tian**, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang, Chunwei Tian, Bai Li, Yisheng Lv, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.
+* **Yonglin Tian**, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang*, Chunwei Tian, Bai Li, Yisheng Lv*, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.
 * Xingxia Wang, Yuhang Liu, Xiang Cheng, Yutong Wang, **Yonglin Tian***, Fei-Yue Wang. ParaDC: Parallel-learning-based dynamometer cards augmentation with diffusion models in sucker rod pump systems[J]. Neurocomputing, 2025, 617: 128973.
 
 * **Yonglin Tian**, Xianjing Zhang, Xiao Wang*, Jintao Xu, Jiangong Wang, Rui Ai, Weihao Gu, Weiping Ding. ACF-Net: Asymmetric Cascade Fusion for 3D Detection With LiDAR Point Clouds and Images[J]. IEEE Transactions on Intelligent Vehicles, 2023.
@@ -23,10 +23,6 @@ Journal Papers (International)
 * Jiangong Wang, **Yonglin Tian***, Yutong Wang, Jing Yang, Xingxia Wang, Sanjin Wang, Oliver Kwan. A framework and operational procedures for metaverses-based industrial foundation models[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 53(4): 2037-2046.
 * Yutong Wang, **Yonglin Tian***, Jiangong Wang, Yansong Cao, Shixing Li, Bin Tian. Integrated inspection of QoM, QoP, and QoS for AOI industries in metaverses[J]. IEEE/CAA Journal of Automatica Sinica, 2022, 9(12): 2071-2078.
 
-Journal Papers (Chinese)
-======
-* 田永林, 王雨桐, 王兴霞, 杨静, 沈甜雨, 王建功, 范丽丽, 郭超, 王寿文, 赵勇, 武万森， 王飞跃. 从 RAG 到 SAGE: 现状与展望[J]. 自动化学报, 2025, 51: 1-25.
-* **田永林**, 王兴霞, 王雨桐, 王建功, 郭超, 范丽丽, 沈甜雨, 武万森, 张红梅, 朱正秋, 王飞跃. RAG-PHI: 检索增强生成驱动的平行人与平行智能[J]. 智能科学与技术学报, 6(1)， 2024.
 
 
 Conference Papers
@@ -40,6 +36,10 @@ Conference Papers
 * **Yonglin Tian**, Xiao Wang, Yu Shen, Yuhang Liu, Zilei Wang, Fei-Yue Wang. Semantic-enhanced Graph Voxelization for Pillar-based 3D Detection from Point Clouds[C]//2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2022: 310-315.
 
 
+Journal Papers (Chinese)
+======
+* **田永林**, 王雨桐, 王兴霞, 杨静, 沈甜雨, 王建功, 范丽丽, 郭超, 王寿文, 赵勇, 武万森， 王飞跃. 从 RAG 到 SAGE: 现状与展望[J]. 自动化学报, 2025, 51: 1-25.
+* **田永林**, 王兴霞, 王雨桐, 王建功, 郭超, 范丽丽, 沈甜雨, 武万森, 张红梅, 朱正秋, 王飞跃. RAG-PHI: 检索增强生成驱动的平行人与平行智能[J]. 智能科学与技术学报, 6(1)， 2024.
 
 
 
