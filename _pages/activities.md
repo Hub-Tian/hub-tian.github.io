@@ -13,14 +13,19 @@ Conference Chair
 ======
 * Chair of Session on Human-Machine Interaction, The 3rd IFAC workshop on Cyber-Physical and Human Systems (IFAC CPHS 2020)
 * Co-chair of Session on Parallel Ecology with Digital Twins, The 1st IEEE International Conference on Digital Twins and Parallel Intelligence (IEEE DTPI 2021)
+* Young Professionals Activity Co-Chair of The 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022)
 * Co-chair of Session on Federated Ecology with Digital Twins, The 2nd IEEE International Conference on Digital Twins and Parallel Intelligence (IEEE DTPI 2022)
 * Publication Co-chair of The 3rd IEEE International Conference on Digital Twins and Parallel Intelligence (IEEE DTPI 2023)
-* Young Professionals Activity Co-Chair of The 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022)
+* Publication Chair of The 18th IEEE International Conference on Service Operations and Logistics, and Informatics  (IEEE SOLI 2024)
 
 Associate Editor
 ======
 * 2022-: Transactions on Intelligent Vehicles
 * 2024-: Chinese Journal of Intelligent Science and Technology
+
+<!-- Awards
+======
+* The 2023 Best Associate Editors -->
 
 <!-- Skills
 ======
