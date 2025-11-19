@@ -10,12 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Invited Talks & Presentations
-* Invited speaker, “Intelligent Perception and Mobility for Low-altitude Transportation Systems”, Workshop on Transportation 5.0 in IEEE ITSC 2025, 18-Nov-2025, Gold Coast, Austrilia. ![[link](https://parallelits.github.io/ITSC-2025-Workshop-on-Transportation-5.0/)]
-* Invited speaker, “低空智能感知与视觉语言导航”, CCF YOCSEF保定技术论坛（“无人机视觉语言导航如何财能应急救援跑赢灾难时钟?”）, 2025年11月8日，保定, 中国. ![[link](https://mp.weixin.qq.com/s/pQ6i31J4GqPBufNEXRtmog)] 
+======
+* Invited speaker, “Intelligent Perception and Mobility for Low-altitude Transportation Systems”, Workshop on Transportation 5.0 in IEEE ITSC 2025, 18-Nov-2025, Gold Coast, Austrilia. [[link](https://parallelits.github.io/ITSC-2025-Workshop-on-Transportation-5.0/)]
+* Invited speaker, “低空智能感知与视觉语言导航”, CCF YOCSEF保定技术论坛（“无人机视觉语言导航如何财能应急救援跑赢灾难时钟?”）, 2025年11月8日，保定, 中国. [[link](https://mp.weixin.qq.com/s/pQ6i31J4GqPBufNEXRtmog)] 
 
 
 
-Academic Conference Activities
+Academic Conference Chairs
 ======
 * Chair of Session on Human-Machine Interaction, The 3rd IFAC workshop on Cyber-Physical and Human Systems (IFAC CPHS 2020)
 * Co-chair of Session on Parallel Ecology with Digital Twins, The 1st IEEE International Conference on Digital Twins and Parallel Intelligence (IEEE DTPI 2021)
