@@ -4,13 +4,72 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.year-2025 {
+  background-color: #e6f7ff;  /* 浅蓝 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.year-2024 {
+  background-color: #f6ffed;  /* 浅绿 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.year-2023 {
+  background-color: #fff7e6;  /* 浅橙 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.year-2022 {
+  background-color: #f9f0ff;  /* 浅紫 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.year-2021 {
+  background-color: #fff1f0;  /* 浅粉 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.year-2020 {
+  background-color: #f0f5ff;  /* 浅靛 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.year-2018 {
+  background-color: #f5f5f5;  /* 淡灰 */
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+/* 让列表整体看着清爽一点 */
+.paper-block ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+</style>
+
+
 
 Journal Papers (International)
 ======
+<div class="paper-block year-2025">
 * **Yonglin Tian**, Yutong Wang*, Yin Zhu, Xuan Li, Xinyuan Zhang, Shixing Li, Hongmei Zhang, Yunzhe Wang, Yong Zhang, Qiang Li, Fei-Yue Wang. From Scenarios Engineering to Scenarios Intelligence: Microworld Models for Embodied AI Based on Parallel Intelligence, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
 * **Yonglin Tian**, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang*, Chunwei Tian, Bai Li, Yisheng Lv*, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.
 * Xingxia Wang, Yuhang Liu, Xiang Cheng, Yutong Wang, **Yonglin Tian***, Fei-Yue Wang. ParaDC: Parallel-learning-based dynamometer cards augmentation with diffusion models in sucker rod pump systems[J]. Neurocomputing, 2025, 617: 128973.
-
+</div>
 * **Yonglin Tian**, Xianjing Zhang, Xiao Wang*, Jintao Xu, Jiangong Wang, Rui Ai, Weihao Gu, Weiping Ding. ACF-Net: Asymmetric Cascade Fusion for 3D Detection With LiDAR Point Clouds and Images[J]. IEEE Transactions on Intelligent Vehicles, 2023.
 * **Yonglin Tian**, Xuan Li*, Hui Zhang, Chen Zhao, Bai Li, Xiao Wang, Fei-Yue Wang. Vistagpt: Generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles, 2023.
 * **Yonglin Tian**, Jiangong Wang, Yutong Wang, Chen Zhao, Fei Yao and Xiao Wang*, "Federated Vehicular Transformers and Their Federations: Privacy-Preserving Computing and Cooperation for Autonomous Driving," in IEEE Transactions on Intelligent Vehicles, 2022, 7(3), 456-465.
