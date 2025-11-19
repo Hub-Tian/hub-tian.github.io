@@ -66,15 +66,21 @@ author_profile: true
 Journal Papers (International)
 ======
 <div class="paper-block year-2025">
+<p>
 <strong>Yonglin Tian</strong>, Yutong Wang*, Yin Zhu, Xuan Li, Xinyuan Zhang, Shixing Li, Hongmei Zhang, Yunzhe Wang, Yong Zhang, Qiang Li, Fei-Yue Wang. From Scenarios Engineering to Scenarios Intelligence: Microworld Models for Embodied AI Based on Parallel Intelligence, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.\\
-
-<strong>Yonglin Tian</strong>, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang*, Chunwei Tian, Bai Li, Yisheng Lv*, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.\\
-
+</p>
+<p>
+<strong>Yonglin Tian</strong>, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang*, Chunwei Tian, Bai Li, Yisheng Lv*, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.
+</p>
+<p>
 Xingxia Wang, Yuhang Liu, Xiang Cheng, Yutong Wang, <strong>Yonglin Tian</strong>*, Fei-Yue Wang. ParaDC: Parallel-learning-based dynamometer cards augmentation with diffusion models in sucker rod pump systems[J]. Neurocomputing, 2025, 617: 128973.
+</p>
 </div>
 
-<div class="paper-block year-2025">
+<div class="paper-block year-2023">
 * <strong>Yonglin Tian</strong>, Xianjing Zhang, Xiao Wang*, Jintao Xu, Jiangong Wang, Rui Ai, Weihao Gu, Weiping Ding. ACF-Net: Asymmetric Cascade Fusion for 3D Detection With LiDAR Point Clouds and Images[J]. IEEE Transactions on Intelligent Vehicles, 2023.
+
+
 * <strong>Yonglin Tian</strong>, Xuan Li*, Hui Zhang, Chen Zhao, Bai Li, Xiao Wang, Fei-Yue Wang. Vistagpt: Generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles, 2023.
 </div>
 
