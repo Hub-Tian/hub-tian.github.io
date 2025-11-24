@@ -67,11 +67,11 @@ Journal Papers (International)
 ======
 <div class="paper-block year-2025">
 
-<strong>Yonglin Tian</strong>, Yutong Wang*, Yin Zhu, Xuan Li, Xinyuan Zhang, Shixing Li, Hongmei Zhang, Yunzhe Wang, Yong Zhang, Qiang Li, Fei-Yue Wang. From Scenarios Engineering to Scenarios Intelligence: Microworld Models for Embodied AI Based on Parallel Intelligence, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.\\
+· <strong>Yonglin Tian</strong>, Yutong Wang*, Yin Zhu, Xuan Li, Xinyuan Zhang, Shixing Li, Hongmei Zhang, Yunzhe Wang, Yong Zhang, Qiang Li, Fei-Yue Wang. From Scenarios Engineering to Scenarios Intelligence: Microworld Models for Embodied AI Based on Parallel Intelligence, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
 <br>
-<strong>Yonglin Tian</strong>, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang*, Chunwei Tian, Bai Li, Yisheng Lv*, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.
+· <strong>Yonglin Tian</strong>, Fei Lin, Yiduo Li, Tengchao Zhang, Qiyao Zhang, Xuan Fu, Jun Huang, Xingyuan Dai, Yutong Wang*, Chunwei Tian, Bai Li, Yisheng Lv*, Fei-Yue Wang. UAVs meet LLMs: Overviews and perspectives towards agentic low-altitude mobility[J]. Information Fusion, 2025, 122: 103158.
 <br>
-Xingxia Wang, Yuhang Liu, Xiang Cheng, Yutong Wang, <strong>Yonglin Tian</strong>*, Fei-Yue Wang. ParaDC: Parallel-learning-based dynamometer cards augmentation with diffusion models in sucker rod pump systems[J]. Neurocomputing, 2025, 617: 128973.
+· Xingxia Wang, Yuhang Liu, Xiang Cheng, Yutong Wang, <strong>Yonglin Tian</strong>*, Fei-Yue Wang. ParaDC: Parallel-learning-based dynamometer cards augmentation with diffusion models in sucker rod pump systems[J]. Neurocomputing, 2025, 617: 128973.
 <br>
 </div>
 
